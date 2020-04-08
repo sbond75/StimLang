@@ -1,0 +1,16 @@
+#216
+OCR0A = 0x27
+#1
+PIND = 0x40
+#40
+PIND = 0x00
+#215
+OCR0A = 0x28
+#1
+PIND = 0x40
+#41
+PIND = 0x00
+#214
+OCR0A = 0x29
+#1
+PIND = 0x40
